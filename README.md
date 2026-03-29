@@ -38,5 +38,5 @@ The game features a **smart AI bot** that plays against you on a 12×8 board. It
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/Chain-Reaction-AI.git
+git clone https://github.com/akankshakumari012/SmartChainReaction
 cd Chain-Reaction-AI
